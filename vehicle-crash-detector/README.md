@@ -53,7 +53,6 @@ The Vehicle Crash Detector saves images of the crash detected locally which coul
 
 I would like to acknowledge and express my gratitude to the following individuals including me who contributed to the development of this project:
 *HARIKRISHNAN S
-*SARANYA P
 
 I sincerely appreciate their time, effort, and dedication in making this project a reality. Without their invaluable contributions, this project would not have been possible.
 
